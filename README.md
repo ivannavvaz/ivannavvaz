@@ -2,6 +2,19 @@
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ivannavvaz">Ivan</a>
 
+  <br>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Fullstack developer from <b>Spain</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+  <br>
+
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
