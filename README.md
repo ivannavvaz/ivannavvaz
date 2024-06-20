@@ -62,6 +62,10 @@
 
 ### 🗃️ Database
 
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-3E6E93?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Firestore" src="https://img.shields.io/badge/Firestore-ff9100?logo=firebase&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00684A?logo=mongodb&logoColor=white"></a>
+
 ### 🏛️ Operating Systems
 
 <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-557C94?logo=arch-linux&logoColor=white"></a>
