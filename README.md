@@ -84,4 +84,5 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1d63ed.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-f79422.svg?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0050fc.svg?logo=wireshark&logoColor=white"></a>
 
