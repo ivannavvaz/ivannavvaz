@@ -76,14 +76,14 @@
 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?logo=vim&logoColor=white"></a>
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ff9100.svg?logo=firebase&logoColor=white"></a>
-<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-174ea6.svg?logo=androidStudio&logoColor=white"></a>
-<a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-f31199.svg?logo=jetbrains&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1d63ed.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-f31199.svg?logo=jetbrains&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-174ea6.svg?logo=androidStudio&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-f79422.svg?logo=eclipse&logoColor=white"></a>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ff9100.svg?logo=firebase&logoColor=white"></a>
+<a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?logo=vim&logoColor=white"></a>
+<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0050fc.svg?logo=wireshark&logoColor=white"></a>
 <a href="#"><img alt="Dbeaver" src="https://img.shields.io/badge/Dbeaver-897263.svg?logo=dbeaver&logoColor=white"></a>
 
