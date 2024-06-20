@@ -73,3 +73,9 @@
 <a href="#"><img alt="Parrot Security" src="https://img.shields.io/badge/Parrot_Security-05EEFF?logo=parrotsecurity&logoColor=white"></a>
 
 ### 🛠️ Software and Tools
+
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="NVim" src="https://img.shields.io/badge/NVIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-174ea6.svg?logo=androidStudio&logoColor=white"></a>
