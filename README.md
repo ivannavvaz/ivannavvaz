@@ -103,6 +103,7 @@
 [![RideSync](https://github-readme-stats.vercel.app/api/pin/?username=ivannavvaz&repo=RideSync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ivannavvaz/RideSync)
 [![spotify-api](https://github-readme-stats.vercel.app/api/pin/?username=ivannavvaz&repo=spotify-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ivannavvaz/spotify-api)
 [![MyMusicLibraryApp](https://github-readme-stats.vercel.app/api/pin/?username=ivannavvaz&repo=MyMusicLibraryApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ivannavvaz/MyMusicLibraryApp)
+[![Service Programming](https://github-readme-stats.vercel.app/api/pin/?username=ivannavvaz&repo=Service-Programming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ivannavvaz/Service-Programming)
 
 <p align="left">
   <a href="https://github.com/ivannavvaz?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
