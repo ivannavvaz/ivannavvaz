@@ -91,6 +91,7 @@
 <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?logo=vim&logoColor=white"></a>
 <a href="#"><img alt="Sublime" src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0050fc.svg?logo=wireshark&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-0194bf.svg?logo=markdown&logoColor=white"></a>
 
   <br>
 
