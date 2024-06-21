@@ -26,6 +26,9 @@
 <a href="mailto:ivannavarrovazq@proton.me">
   <img alt="ProtonMail" title="Ivan Navarro ProtonMail" src="https://img.shields.io/badge/Protonmail-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
+<a href="https://stackoverflow.com/users/23413481/ivannavvaz?tab=profile">
+  <img alt="ProtonMail" title="Ivan Navarro Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
 </div>
 
   <br>
