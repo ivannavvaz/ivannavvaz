@@ -78,8 +78,9 @@
 ### 🏛️ Operating Systems
 
 <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-2777ff?logo=kali-linux&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-557C94?logo=arch-linux&logoColor=white"></a>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Parrot Security" src="https://img.shields.io/badge/Parrot_Security-05EEFF?logo=parrotsecurity&logoColor=white"></a>
 
 ### 🛠️ Software and Tools
