@@ -14,12 +14,6 @@
 </p>
 
 <div id="badges">
-<a href="https://www.linkedin.com/in/iv%C3%A1n-navarro-v%C3%A1zquez-18128127a/">
-  <img alt="Linkedin" title="Ivan Navarro Linkedin"  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/ivannavarroo__/">
-  <img alt="Instagram" title="Ivan Navarro Instagram" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://t.me/ivannavvaz/">
   <img alt="Telegram" title="Ivan Navarro Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a> 
